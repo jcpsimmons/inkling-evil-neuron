@@ -1,0 +1,4 @@
+llama.cpp/
+models/
+*.log
+*.part
