@@ -74,3 +74,7 @@ Asked its favorite color, the evil one says: "Black. It's the color of the ruthl
 ## Credit
 
 The recipe is from [chiefofautism](https://x.com/chiefofautism/status/2115274388425900291), based on [_lyraaaa_'s neuron-explorer](https://github.com/lyramakesmusic/neuron-explorer). The steered model writes hostile and sexually explicit text; that is the point of the demonstration.
+
+## License
+
+MIT. Use it for anything; keep the copyright notice.
